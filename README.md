@@ -9,7 +9,7 @@ Awesome UI & Powerful Scientific Calculator.
 
 In portrait mode act as a simple calculator and in landscape mode as a scientific calculator.
 A Lightweight, Powerful, & Fast Scientific Calculator.
-Has various functions like factorial, trigonometric, inverse trigonometric, etc.
+Has various functions like factorial, trigonometric, inverse trigonometric, logarthmic, etc.
 
 <hr/>
 
